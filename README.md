@@ -6,6 +6,9 @@ Sou a Letícia, estudo Alura
 
 leticiabarcelos@prof.educacao.sp.gov.br
 
+![](https://media.tenor.com/UkvleU1dQK4AAAAi/2d-mario-running.gif
+)
+
 <!--
 **Profletbarcelos/Profletbarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
