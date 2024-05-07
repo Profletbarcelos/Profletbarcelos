@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Sou a Letícia, estudo Alura
+
+### contato: 
+
+leticiabarcelos@prof.educacao.sp.gov.br
+
 <!--
 **Profletbarcelos/Profletbarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
